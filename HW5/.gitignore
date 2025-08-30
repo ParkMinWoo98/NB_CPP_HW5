@@ -53,6 +53,10 @@ Plugins/**/Binaries/*
 # Builds
 Build/*
 
+# Keys or Tokens
+Keys/*
+Tokens/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
